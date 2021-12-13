@@ -1,5 +1,5 @@
 # 멀티스레드와 NIO WatchService 학습
-
+> flab 멘토링 과제
 ## 프로그램 요구사항 정의
 ### 메인 스레드 : WatcherMain
 filewatcher 스레드의 종료를 기다렸다가, filewatcher가 종료되고 난 후 
